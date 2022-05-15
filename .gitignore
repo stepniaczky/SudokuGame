@@ -1,0 +1,7 @@
+target
+.idea
+logs
+derby.log
+Sudoku
+Sudoku1
+**/**.txt
